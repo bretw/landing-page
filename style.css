@@ -17,7 +17,6 @@ body > div {
     gap: 10px;
     color: white;
     text-wrap:nowrap;
-    max-width:2000px;
 }
 
 a {
